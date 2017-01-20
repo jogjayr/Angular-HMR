@@ -8,6 +8,15 @@ This will only work in Ui Router at the moment with a specific app structure sho
 
 Throwing up a sample app up at https://github.com/yargalot/Angular-HMR-Example
 
+## Installation
+
+  npm i -D angular-hmr
+  
+## Sample usage as a loader
+
+https://github.com/yargalot/Angular-HMR-Example/blob/ea2bff774d8cc4c92b049e35570d0902d9f1a6b4/webpack.hot.conf.js
+
+
 ## How it works
 This will inject the new controller / template then reload the state in UI Router
 
